@@ -1,2 +1,2 @@
-# webrtc
-Trying out webrtc in js using node js for the stun server and frontend with tailwind and react
+# WebRTC
+Trying out webrtc in JS using NodeJs for the STUN server and frontend with tailwind and react
